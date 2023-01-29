@@ -1,7 +1,7 @@
 # E-commerce
 Coding Ninjas Skill Test React Group 3
 
-This is Meals app Where you can know about your favourites meals. You can search about any Meals see the deatils about that meal.You can also add it into favourite list
+This is an Ecommerce app.Create the frontend for an ecommerce website
 
 # Hosted link:-
 https://mohanmajee.github.io/E-commerce/
